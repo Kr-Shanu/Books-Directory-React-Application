@@ -18,7 +18,6 @@ function BooksContainer(props) {
 
     // console.log(filtered);
 
-
         return (
             <div className="container bookcontainer">
                 <div className="row" >
