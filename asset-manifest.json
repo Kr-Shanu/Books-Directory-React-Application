@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Books-Directory-React-Application/static/js/main.06990d44.js",
+    "main.css": "/Books-Directory-React-Application/static/css/main.f55ef282.css",
+    "main.js": "/Books-Directory-React-Application/static/js/main.b86df460.js",
     "index.html": "/Books-Directory-React-Application/index.html",
-    "main.06990d44.js.map": "/Books-Directory-React-Application/static/js/main.06990d44.js.map"
+    "main.f55ef282.css.map": "/Books-Directory-React-Application/static/css/main.f55ef282.css.map",
+    "main.b86df460.js.map": "/Books-Directory-React-Application/static/js/main.b86df460.js.map"
   },
   "entrypoints": [
-    "static/js/main.06990d44.js"
+    "static/css/main.f55ef282.css",
+    "static/js/main.b86df460.js"
   ]
 }
